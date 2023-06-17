@@ -1,7 +1,7 @@
 # Simple-Fast-Global-Bot-v13
 This is a simple fast global Bot written in discord.js v13 for a youtube tutorial!
 
-# [👍 **YOUTUBE TUTORIAL**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=19s)
+# [👍 **YOUTUBE TUTORIAL**](https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=0s)
 
 ## Installation Guide (Hosting)
 
