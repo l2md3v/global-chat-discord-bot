@@ -5,7 +5,7 @@ This is a simple fast global Bot written in discord.js v13 for a youtube tutoria
 
 ## Installation Guide (Hosting)
 
-- Download the Code / Clone the Repository: `git clone https://github.com/kentjuno7z/global-chat-discord-bot`
+- Download the Code / Clone the Repository: `git clone https://github.com/l2md3v/global-chat-discord-bot`
 
 - have **node.js v16.6 or higher**
 
